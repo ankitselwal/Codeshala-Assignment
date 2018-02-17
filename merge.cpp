@@ -79,6 +79,6 @@ while(tempo)
     tempo=tempo->next;
 }
 
-return 0;
+
 }
 
